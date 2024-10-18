@@ -2,7 +2,7 @@
     "version": 2,
     "framework": null,
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.6.2" }
+        "api/index.php": { "runtime": "vercel-php@0.6.1" }
     },
     "routes": [
         {
@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://awss3.vercel.app",
+        "APP_URL": "https://awss-3.vercel.app",
         "APP_KEY":"base64:p7BVdgGJzc9n/vs1+0LVuQGP/oiNhptUU/MpEfQGiUM=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
